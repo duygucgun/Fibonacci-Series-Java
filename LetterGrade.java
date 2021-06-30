@@ -43,4 +43,5 @@ public class LetterGrade{
             System.out.println("Harf Notunuz FF Başarısız Oldunuz!");
         }
     }
+    
 }
