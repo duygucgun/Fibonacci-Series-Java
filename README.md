@@ -1,6 +1,6 @@
 # JavaBootcampWeek-1
 
-## Includes We Code Java Bootcamp Week 1 assignments.
+## Includes Kodluyoruz Java Bootcamp Week 1 assignments.
 
 1-Fibonacci Series
 
