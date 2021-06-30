@@ -42,6 +42,7 @@ public class LetterGrade{
         else { //50'den düşük ortalama ise FF olarak görünüyor. //
             System.out.println("Harf Notunuz FF Başarısız Oldunuz!");
 
+
         }
     }
 }

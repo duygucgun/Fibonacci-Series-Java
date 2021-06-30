@@ -10,6 +10,7 @@ public class Fibonacci{
 
      System.out.print(a + " "+ b);
 
+
      for(int i=2;i<20 ++i)
      {
          c = a+b;
